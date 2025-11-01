@@ -1,0 +1,5 @@
+{
+  "name": "Company Hierarchy Chart",
+  "description": "An application to create, visualize, and manage a company's organizational hierarchy. Allows for adding employees, building a visual tree, and exporting the chart to various formats like PDF, JPG, and CSV, as well as importing data from CSV.",
+  "requestFramePermissions": []
+}
